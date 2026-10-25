@@ -35,11 +35,10 @@ Participated in the development of corresponding locomotion interaction logic, a
 This repository includes the following core modules of the team project:
 - **Scenes** – Core game scene files, the main deliverable of spatial layout design and scene construction
 - **Scripts** – Logic scripts I was responsible for, including hybrid locomotion control, environmental atmosphere trigger, and scene flow management
-- **Kowloon Walled City** – Themed resource folder for the Kowloon Walled City environment
 - **Models & Materials** – 3D assets and materials for scene environment construction
 - **Packages & ProjectSettings** – Unity engine project configuration files
 
-> Note: Part of the large-size scene assets and third-party plugin resources are not uploaded due to GitHub file size limit. The full scene demonstration is presented in the demo video.
+> Note: The themed `Kowloon Walled City` resource folder and part of large-size scene assets are not uploaded due to GitHub file size limit. The full scene demonstration is presented in the demo video..
 
 ## Supplementary Materials
 - **Integrated Interactive Demo Video (all 4 research projects)**: [https://www.feicut.com/fv/FV28rlr7zx9y?cm=2&fc=5&p=0]
